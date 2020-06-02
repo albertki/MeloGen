@@ -18,14 +18,14 @@ python meloGen.py
 
 3. Then, simply enter the appropriate key in response to the input prompts.
 
-### OUTPUT:
+### Output:
 The program will write the simplified chord-version of the original score file, the pre-GA melody score file, and the post-GA melody score file to your current directory.
 
 #### If you wish to see/hear the resulting output, please make sure that you have MuseScore downloaded, and respond accordingly when the prompt asks if you would like to view the results.
 
 #### If MuseScore prompts you with an error message stating the file is corrupted, click ignore. This is the result of an insignificant issue from the output program.
 
-### INPUT:
+### Input:
 Various example input files have been provided in the `input_mxl` folder.
 
 - If you wish to test additional files downloaded online (ex. midiworld.com), you should ensure that the file does not contain any auxiliary or percussion instruments, or a melody line-the reason being that melody parts are sometimes "transposing instruments" that are in a different key and can negatively affect the generation. 
