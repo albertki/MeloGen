@@ -2,6 +2,7 @@
 # MeloGen
 ### Melogen is a tool to inspire pop music melody composition via an application of genetic algorithms for informed melody generation
 **Written by: Albert Ki (5/1/2020)**
+
 *For academic use only.*
 
 *Because a MIDI/MusixXML reader application is recommended to open/view music score file formats, MuseScore is highly recommended (free).*
